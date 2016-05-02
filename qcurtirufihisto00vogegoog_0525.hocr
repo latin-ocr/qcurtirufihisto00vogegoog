@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qcurtirufihisto00vogegoog_0525.png"; bbox 0 0 3069 4749; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2322 0 3008 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2322 0 3008 2002">
+     <span class='ocr_line' id='line_1_1' title="bbox 2322 0 3008 2002; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2322 0 3008 2002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 781 2699 2294 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 781 2699 2294 2756">
+     <span class='ocr_line' id='line_1_2' title="bbox 781 2699 2294 2756; baseline -0.003 -1"><span class='ocrx_word' id='word_1_2' title='bbox 781 2701 1226 2756; x_wconf 75' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1257 2701 1358 2755; x_wconf 77' lang='lat'>01²·</span> <span class='ocrx_word' id='word_1_4' title='bbox 1390 2701 1844 2754; x_wconf 70' lang='lat' dir='ltr'>CAUFORNJA</span> <span class='ocrx_word' id='word_1_5' title='bbox 1878 2699 2202 2754; x_wconf 74' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_6' title='bbox 2292 2745 2294 2748; x_wconf 10' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 517 2596 532 2934">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 517 2596 532 2934">
+     <span class='ocr_line' id='line_1_3' title="bbox 517 2596 532 2934; baseline 0 1815"><span class='ocrx_word' id='word_1_7' title='bbox 517 2596 532 2934; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 780 4166 1722 4684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 780 4166 1722 4684">
+     <span class='ocr_line' id='line_1_4' title="bbox 780 4166 1722 4684; baseline 0 65"><span class='ocrx_word' id='word_1_8' title='bbox 780 4166 1722 4684; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
